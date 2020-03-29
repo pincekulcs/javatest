@@ -1,0 +1,11 @@
+com\hg\medicalevolution\javatest\entity\MeasurementTimestampValuePair.class
+com\hg\medicalevolution\javatest\service\MeasurementServiceImplementation.class
+com\hg\medicalevolution\javatest\controller\MeasurementController.class
+com\hg\medicalevolution\javatest\MedicalEvolutionSpringBootApplication.class
+com\hg\medicalevolution\javatest\ServletInitializer.class
+com\hg\medicalevolution\javatest\service\util\MeasurementAggregationGranulation.class
+com\hg\medicalevolution\javatest\exception\NotFoundException.class
+com\hg\medicalevolution\javatest\service\MeasurementService.class
+com\hg\medicalevolution\javatest\repository\MeasurementRepository.class
+com\hg\medicalevolution\javatest\entity\MeasurementAggregate.class
+com\hg\medicalevolution\javatest\entity\MeasurementEntity.class
